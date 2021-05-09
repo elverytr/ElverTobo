@@ -43,7 +43,7 @@ export default class Bio extends Component {
                 <Titulo>Hola</Titulo>
                 <Sub>Soy Elver Tobo</Sub>
                 <Article>
-                    Estudiante de sexto semestre de Ingeniería en Software y desarrollador Front-End en formacion.
+                    Estudiante de sexto semestre de Ingeniería en Software y desarrollador Front-End en formación.
                 </Article>
             </Contenido>
         )

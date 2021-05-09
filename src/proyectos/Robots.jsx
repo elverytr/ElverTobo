@@ -53,7 +53,7 @@ export default class Robots extends Component {
                 <h4>Robots</h4>
                 <Img src={Foto}/>
                 <P>
-                    Esta es una página de aterrizaje de una comercializadora de robots, tiene tre distintos tipos de robots, además un video de presentación y un campo de texto donde podrás introducir tu correo para recibir inforción detallada por email.
+                    Esta es una página de aterrizaje de una comercializadora de robots, tiene tres distintos tipos de robots, además un vídeo de presentación y un campo de texto donde podrás introducir tu correo para recibir inforción detallada por email.
                 </P>
                 <Btn href="https://elverytr.github.io/RetoPaginaAterrizaje/" target="blank">Ver página</Btn>
             </Tile>
