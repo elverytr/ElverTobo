@@ -10,6 +10,8 @@ import Proyectos from './components/Proyectos'
 import Formulario from './proyectos/Formulario'
 import Documentacion from './proyectos/Documentacion'
 import Robots from './proyectos/Robots'
+import Mascotas from './proyectos/Mascotas'
+import PaginaTributo from './proyectos/PaginaTributo'
 
 function App(){
   return (
@@ -24,6 +26,8 @@ function App(){
           <Formulario/>
           <Documentacion/>
           <Robots/>
+          <Mascotas/>
+          <PaginaTributo/>
         </Proyectos>
       </Main>
       <Contacto>
