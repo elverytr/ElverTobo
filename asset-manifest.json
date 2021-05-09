@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RetoPortafolio/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/RetoPortafolio/static/js/main.b2251d20.chunk.js",
-    "main.js.map": "/RetoPortafolio/static/js/main.b2251d20.chunk.js.map",
+    "main.js": "/RetoPortafolio/static/js/main.04f1cfa5.chunk.js",
+    "main.js.map": "/RetoPortafolio/static/js/main.04f1cfa5.chunk.js.map",
     "runtime-main.js": "/RetoPortafolio/static/js/runtime-main.a8f30e7d.js",
     "runtime-main.js.map": "/RetoPortafolio/static/js/runtime-main.a8f30e7d.js.map",
     "static/js/2.2343f050.chunk.js": "/RetoPortafolio/static/js/2.2343f050.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.a8f30e7d.js",
     "static/js/2.2343f050.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.b2251d20.chunk.js"
+    "static/js/main.04f1cfa5.chunk.js"
   ]
 }
