@@ -56,7 +56,7 @@ export default class Mascotas extends Component {
                 <P>
                     Esta es una APP web first mobile, cuya finalidad es la puesta en adopción de mascotas, donde además el que lo deseé pueda adoptar una de ellas, pudiendo antes ver una descripción y demás detalles de la misma.
                 </P>
-                <Btn href="https://elverytr.github.io/RetoDocumentacionTecnica/" target="blank">Ver página</Btn>
+                <Btn href="https://elverytr.github.io/Sprint1_AdopcionAPP/slide_1.html" target="blank">Ver página</Btn>
             </Tile>
         )
     }

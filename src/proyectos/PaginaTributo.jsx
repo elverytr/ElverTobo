@@ -56,7 +56,7 @@ export default class PaginaTributo extends Component {
                 <P>
                    Esta web es una página tributo a la fotografía, allí puedes ver diferentes tipos de fotografía y una pequeña descripción de la historia de la fotografía, donde además se dice el porque es un arte y también puedes encontrar algunas otras referencias para ver portafolios fotográficos y encontrar mas información. Es una página sencilla con una plantilla muy facil de reutilizar para algunos otros proyectos web.
                 </P>
-                <Btn href="https://elverytr.github.io/RetoDocumentacionTecnica/" target="blank">Ver página</Btn>
+                <Btn href="https://elverytr.github.io/RetoPaginaTributo/" target="blank">Ver página</Btn>
             </Tile>
         )
     }
