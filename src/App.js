@@ -6,7 +6,6 @@ import Cuerpo from './containers/Cuerpo'
 import Main from './containers/Main'
 import Contacto from './containers/Contacto'
 import SocialMedia from './pages/SocialMedia'
-import CopyRigth from './pages/CopyRigth'
 import Proyectos from './components/Proyectos'
 import Formulario from './proyectos/Formulario'
 import Documentacion from './proyectos/Documentacion'
@@ -29,7 +28,6 @@ function App(){
       </Main>
       <Contacto>
         <SocialMedia/>
-        <CopyRigth/>
       </Contacto>
     </Cuerpo>
   );
