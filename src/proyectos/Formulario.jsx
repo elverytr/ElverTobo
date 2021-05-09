@@ -10,6 +10,12 @@ const Tile = styled.div`
     margin:0 0 0 20px;
     display:inline-block;
     padding: 10px;
+    
+    @media (max-width: 450px){
+        width:100%;
+        float:none;
+        margin:10px 0 0 0;
+    }
 `
 const Img = styled.img`
     width:90%;
@@ -25,6 +31,7 @@ const P = styled.p`
     text-indent:15px;
     color:rgb(0, 0, 0);
     font-weight:300;
+    
 `
 
 const Btn = styled.a`

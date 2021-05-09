@@ -13,6 +13,12 @@ const Contenido = styled.div`
     &:hover {
       background-color:white;
       color:black;
+    }       
+    @media (max-width: 450px){
+        width:100%;
+        float:none;
+        margin:10px 0 0 0;
+        border-radius:5px;
     }
 `
 

@@ -10,6 +10,13 @@ const Tile = styled.div`
     margin:0 0 0 20px;
     display:inline-block;
     padding: 10px;
+
+    @media (max-width: 450px){
+        width:100%;
+        float:none;
+        margin:10px 0 0 0;
+    }
+
 `
 const Img = styled.img`
     width:90%;

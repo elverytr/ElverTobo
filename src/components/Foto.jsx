@@ -10,6 +10,11 @@ const Img = styled.img`
     &:hover{
         transform: rotate(1deg);
     }
+    @media (max-width: 450px){
+        width:100%;
+        float:none;
+        margin-top: 50px;
+    }
 `
 export default class Foto extends Component {
     render() {

@@ -9,6 +9,12 @@ const Seccion = styled.section`
     width:100%;
     height:100vh;
     box-sizing:border-box;
+
+    @media (max-width: 450px){
+        display:inline-block;
+        height:auto;
+    }
+
 `
 
 export default class Presentacion extends Component {
