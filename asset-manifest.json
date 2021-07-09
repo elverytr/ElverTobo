@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ElverTobo/static/css/main.0041b1d0.chunk.css",
-    "main.js": "/ElverTobo/static/js/main.98611f3b.chunk.js",
-    "main.js.map": "/ElverTobo/static/js/main.98611f3b.chunk.js.map",
+    "main.js": "/ElverTobo/static/js/main.13fff937.chunk.js",
+    "main.js.map": "/ElverTobo/static/js/main.13fff937.chunk.js.map",
     "runtime-main.js": "/ElverTobo/static/js/runtime-main.b2776fda.js",
     "runtime-main.js.map": "/ElverTobo/static/js/runtime-main.b2776fda.js.map",
     "static/js/2.9dc93ca6.chunk.js": "/ElverTobo/static/js/2.9dc93ca6.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b2776fda.js",
     "static/js/2.9dc93ca6.chunk.js",
     "static/css/main.0041b1d0.chunk.css",
-    "static/js/main.98611f3b.chunk.js"
+    "static/js/main.13fff937.chunk.js"
   ]
 }
