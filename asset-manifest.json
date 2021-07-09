@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ElverTobo/static/css/main.e57939b0.chunk.css",
-    "main.js": "/ElverTobo/static/js/main.996887e0.chunk.js",
-    "main.js.map": "/ElverTobo/static/js/main.996887e0.chunk.js.map",
+    "main.css": "/ElverTobo/static/css/main.dc43b100.chunk.css",
+    "main.js": "/ElverTobo/static/js/main.de8dcf4c.chunk.js",
+    "main.js.map": "/ElverTobo/static/js/main.de8dcf4c.chunk.js.map",
     "runtime-main.js": "/ElverTobo/static/js/runtime-main.b2776fda.js",
     "runtime-main.js.map": "/ElverTobo/static/js/runtime-main.b2776fda.js.map",
-    "static/js/2.34f6f7fd.chunk.js": "/ElverTobo/static/js/2.34f6f7fd.chunk.js",
-    "static/js/2.34f6f7fd.chunk.js.map": "/ElverTobo/static/js/2.34f6f7fd.chunk.js.map",
+    "static/js/2.02ce2f5c.chunk.js": "/ElverTobo/static/js/2.02ce2f5c.chunk.js",
+    "static/js/2.02ce2f5c.chunk.js.map": "/ElverTobo/static/js/2.02ce2f5c.chunk.js.map",
     "index.html": "/ElverTobo/index.html",
-    "static/css/main.e57939b0.chunk.css.map": "/ElverTobo/static/css/main.e57939b0.chunk.css.map",
-    "static/js/2.34f6f7fd.chunk.js.LICENSE.txt": "/ElverTobo/static/js/2.34f6f7fd.chunk.js.LICENSE.txt"
+    "static/css/main.dc43b100.chunk.css.map": "/ElverTobo/static/css/main.dc43b100.chunk.css.map",
+    "static/js/2.02ce2f5c.chunk.js.LICENSE.txt": "/ElverTobo/static/js/2.02ce2f5c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b2776fda.js",
-    "static/js/2.34f6f7fd.chunk.js",
-    "static/css/main.e57939b0.chunk.css",
-    "static/js/main.996887e0.chunk.js"
+    "static/js/2.02ce2f5c.chunk.js",
+    "static/css/main.dc43b100.chunk.css",
+    "static/js/main.de8dcf4c.chunk.js"
   ]
 }
