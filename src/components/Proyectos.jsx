@@ -1,12 +1,13 @@
 import React from "react";
 import { useState } from "react";
 import styled from "styled-components";
+import { loadContent } from "../helpers/loadProyects";
 import CardProyecto from "./CardProyecto";
 
 const Container = styled.div`
-margin-top: 50px;
-padding-top: 50px;
-border-top: 3px dashed #333;
+  margin-top: 50px;
+  padding-top: 50px;
+  border-top: 3px dashed #333;
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
@@ -22,6 +23,13 @@ export default function Proyectos() {
     { nombre: "P4", link: "https://P4.com", foto: "https://P4.jpg" },
     { nombre: "P5", link: "https://P5.com", foto: "https://P5.jpg" },
   ]);
+
+  const startGetContent = async () => {
+    const content = await loadContent();
+    return content;
+  };
+  console.log(startGetContent());
+
   return (
     <Container>
       {proyectos.map(({ nombre, link, foto }) => (
