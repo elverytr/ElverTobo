@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const Container = styled.div`
-  margin-top: 50px;
+  margin-top: 2rem;
   padding-top: 50px;
   border-top: 3px dashed #333;
   box-sizing: unset;
