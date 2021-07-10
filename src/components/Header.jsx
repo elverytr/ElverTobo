@@ -2,12 +2,11 @@ import React from "react";
 import styled from "styled-components";
 import "../styles/css/header.scss";
 
-const Img = styled.img``
+const Img = styled.img``;
 
 export default function Header() {
   return (
     <>
-    
       <div
         id="carouselExampleIndicators"
         className="carousel slide slider"
@@ -37,13 +36,25 @@ export default function Header() {
         </div>
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <Img src="https://i.ibb.co/rbpMw9G/man-1839500-1280.jpg" className="d-block w-100" alt="..." />
+            <Img
+              src="https://i.ibb.co/rbpMw9G/man-1839500-1280.jpg"
+              className="d-block w-100"
+              alt="..."
+            />
           </div>
           <div className="carousel-item">
-            <Img src="https://i.ibb.co/qBdHTRV/people-2557396-1280.jpg" className="d-block w-100" alt="..." />
+            <Img
+              src="https://i.ibb.co/qBdHTRV/people-2557396-1280.jpg"
+              className="d-block w-100"
+              alt="..."
+            />
           </div>
           <div className="carousel-item">
-            <Img src="https://i.ibb.co/CQzJfqx/programming-2115930-1280.jpg" className="d-block w-100" alt="..." />
+            <Img
+              src="https://i.ibb.co/CQzJfqx/programming-2115930-1280.jpg"
+              className="d-block w-100"
+              alt="..."
+            />
           </div>
         </div>
         <button
@@ -72,14 +83,21 @@ export default function Header() {
         </button>
       </div>
       <div className="navbar">
-        Elver Tobo
+        Elver Tobo - Front-end developer
         <div className="links">
+          <a href="#presentacion">Presentación</a>
           <a href="#proyectos">Proyectos</a>
           <a href="#contacto">Contacto</a>
-          <a href="#repositorios">Repositorios</a>
-          <a href="#certificaciones">Certificaciones</a>
-          <a href="#" className="text-warning">Administrar</a>
+          <a href="#" className="text-warning" onClick={()=>{alert("Esta opción solo está habilitada para usuarios con permisos de administrador. Lamento las molestias causadas y te invito a seguir explorando.")}}>
+            Administrar
+          </a>
         </div>
+      </div>
+      <div
+        className="beta"
+        title="Aún hay varias actualizaciones pendientes debido a inconvenientes con la conexión a internet en el departamento de Arauca (lugar de residencia). Pronto se estará actualizando el portafolio."
+      >
+        Beta
       </div>
     </>
   );

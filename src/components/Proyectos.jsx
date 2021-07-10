@@ -16,14 +16,8 @@ const Container = styled.div`
 `;
 
 export default function Proyectos() {
-  const [proyectos, setProyectos] = useState([
-    { nombre: "P1", link: "https://P1.com", foto: "https://P1.jpg" },
-    { nombre: "P2", link: "https://P2.com", foto: "https://P2.jpg" },
-    { nombre: "P3", link: "https://P3.com", foto: "https://P3.jpg" },
-    { nombre: "P4", link: "https://P4.com", foto: "https://P4.jpg" },
-    { nombre: "P5", link: "https://P5.com", foto: "https://P5.jpg" },
-  ]);
-
+  let { proyectos } = require("./projects.json");
+  proyectos = [...proyectos];
   const startGetContent = async () => {
     const content = await loadContent();
     return content;
@@ -31,10 +25,18 @@ export default function Proyectos() {
   console.log(startGetContent());
 
   return (
-    <Container>
-      {proyectos.map(({ nombre, link, foto }) => (
-        <CardProyecto nombre={nombre} link={link} foto={foto} />
-      ))}
-    </Container>
+    <>
+      <Container id="proyectos">
+        <p className="w-100 text-center">Proyectos</p>
+        {proyectos.map(({ nombre, link, foto, descripcion }) => (
+          <CardProyecto
+            nombre={nombre}
+            link={link}
+            foto={foto}
+            descripcion={descripcion}
+          />
+        ))}
+      </Container>
+    </>
   );
 }

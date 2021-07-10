@@ -1,0 +1,46 @@
+{
+  "proyectos": [
+    {
+      "nombre": "EducApp",
+      "link": "https://educ-app.github.io/EducApp/",
+      "foto": "https://scrnli.com/uploads/5/51/516/5164/51648/51648a/51648ae8-d539-0863-98fb-4b86d532645a/V4hcPuA4Q3ZXk9",
+      "descripcion": "Plataforma web de cursos online, ajustados a la demanda laboral actual del campo TI. Reune cursos de las plataformas Udemy y Coursera y los pone a disposición de los usuarios."
+    },
+    {
+      "nombre": "Parque Explora",
+      "link": "https://elverytr.github.io/parque-explora/",
+      "foto": "https://scrnli.com/uploads/5/51/516/5164/51648/51648a/51648ae8-d539-0863-98fb-4b86d532645a/rbQCtXuNzXGmIr",
+      "descripcion": "Pequeña sección informativa del Parque Explora. Este es un proyecto realizado como prueba técnica para Parque Explora."
+    },
+    {
+      "nombre": "Adopción APP",
+      "link": "https://elverytr.github.io/Sprint1_AdopcionAPP/",
+      "foto": "https://scrnli.com/uploads/5/51/516/5164/51648/51648a/51648ae8-d539-0863-98fb-4b86d532645a/p0w0Z0F61X6Lef",
+      "descripcion": "Plataforma de adopción de mascotas, utilizando HTML, CSS y JavaScript."
+    },
+    {
+      "nombre": "Frases aleatorias",
+      "link": "https://elverytr.github.io/RetoFrasesAleatorias/",
+      "foto": "https://scrnli.com/uploads/5/51/516/5164/51648/51648a/51648ae8-d539-0863-98fb-4b86d532645a/CDCqy05u5yoNMW",
+      "descripcion": "Este es un generador de fraces celebres aleatorias. Cuenta con una base de fraces celebres que puenden ser recorridas de manera aleatoria a través de la interfaz gráfica."
+    },
+    {
+      "nombre": "Redux Frutería",
+      "link": "https://elverytr.github.io/ReduxFrutas/",
+      "foto": "https://scrnli.com/uploads/5/51/516/5164/51648/51648a/51648ae8-d539-0863-98fb-4b86d532645a/nTtWZP15kkWpAw",
+      "descripcion": "Una simple app de tipo CRUD utilizando redux, donde se pueden ingresar y borrar frutas (no cuenta con almacenamiento permanente)."
+    },
+    {
+      "nombre": "Documentación técnica de JavaScript",
+      "link": "https://elverytr.github.io/RetoDocumentacionTecnica/",
+      "foto": "https://scrnli.com/uploads/5/51/516/5164/51648/51648a/51648ae8-d539-0863-98fb-4b86d532645a/2Pe2KFTWN36ys3",
+      "descripcion": "Esta es una página de documentación en español sobre JavaScript, está basada en la página de documentación de JavaScript en inglés."
+    },
+    {
+      "nombre": "Formulario de inscripción",
+      "link": "https://elverytr.github.io/RetoFormulario/",
+      "foto": "https://scrnli.com/uploads/5/51/516/5164/51648/51648a/51648ae8-d539-0863-98fb-4b86d532645a/xbg2E4SW53CW77",
+      "descripcion": "Este es un formulario de inscripción creado con HTML, CSS y JavaScript. Util para captura de información de inscripcion y con pocas modificaciones puede ser adaptado a dirversas necesidades."
+    }
+  ]
+}
