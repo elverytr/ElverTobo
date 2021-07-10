@@ -24,7 +24,7 @@ export default function Bienvenida() {
         </b>y <b> JavaScript moderno</b>, utilizar marcos de estilos CSS y
         diversas librerías. Aunque a un nivel mas básico, debo mencionar que
         también manejo el lenguaje de consulta estructurado <b>SQL</b>, los
-        lenguajes de programación <b>PHP</b> y <b>Matlab</b> y el lenguaje
+        lenguajes de programación <b>JAVA, PHP</b> y <b>Matlab</b> y el lenguaje
         estadístico <b>R</b>.
         <br />
         <br />

@@ -1,13 +1,10 @@
-import React from "react";
+import React from 'react'
 import styled from "styled-components";
-import "../styles/css/header.scss";
-
 const Img = styled.img``;
 
-export default function Header() {
-  return (
-    <>
-      <div
+export default function Slider() {
+    return (
+        <div
         id="carouselExampleIndicators"
         className="carousel slide slider"
         data-bs-ride="carousel"
@@ -82,23 +79,5 @@ export default function Header() {
           <span className="visually-hidden">Next</span>
         </button>
       </div>
-      <div className="navbar">
-        Elver Tobo - Front-end developer
-        <div className="links">
-          <a href="#presentacion">Presentación</a>
-          <a href="#proyectos">Proyectos</a>
-          <a href="#contacto">Contacto</a>
-          <a href="#" className="text-warning" onClick={()=>{alert("Esta opción solo está habilitada para usuarios con permisos de administrador. Lamento las molestias causadas y te invito a seguir explorando.")}}>
-            Administrar
-          </a>
-        </div>
-      </div>
-      <div
-        className="beta"
-        title="Aún hay varias actualizaciones pendientes debido a inconvenientes con la conexión a internet en el departamento de Arauca (lugar de residencia). Pronto se estará actualizando el portafolio."
-      >
-        Beta
-      </div>
-    </>
-  );
+    )
 }

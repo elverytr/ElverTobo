@@ -1,8 +1,8 @@
 import React from "react";
-import { useState } from "react";
 import styled from "styled-components";
-import { loadContent } from "../helpers/loadProyects";
 import CardProyecto from "./CardProyecto";
+
+const { proyectos } = require("../../data/projects.json");
 
 const Container = styled.div`
   margin-top: 50px;
@@ -16,19 +16,14 @@ const Container = styled.div`
 `;
 
 export default function Proyectos() {
-  let { proyectos } = require("./projects.json");
-  proyectos = [...proyectos];
-  const startGetContent = async () => {
-    const content = await loadContent();
-    return content;
-  };
-  console.log(startGetContent());
+
+  const proyts = [...proyectos];
 
   return (
     <>
       <Container id="proyectos">
         <p className="w-100 text-center">Proyectos</p>
-        {proyectos.map(({ nombre, link, foto, descripcion }) => (
+        {proyts.map(({ nombre, link, foto, descripcion }) => (
           <CardProyecto
             nombre={nombre}
             link={link}
