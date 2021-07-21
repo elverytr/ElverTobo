@@ -10,7 +10,7 @@ export default function Header() {
       <Slider />
       <div className="navbar">
         Elver Tobo - Front-end developer
-        <MenuDesplegable />
+        {/* <MenuDesplegable /> */}
         <MenuEstatico />
       </div>
     </>
