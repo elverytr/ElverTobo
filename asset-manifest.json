@@ -1,20 +1,28 @@
 {
   "files": {
-    "main.css": "/ElverTobo/static/css/main.1f7a43cd.chunk.css",
-    "main.js": "/ElverTobo/static/js/main.d68aa319.chunk.js",
-    "main.js.map": "/ElverTobo/static/js/main.d68aa319.chunk.js.map",
-    "runtime-main.js": "/ElverTobo/static/js/runtime-main.b2776fda.js",
-    "runtime-main.js.map": "/ElverTobo/static/js/runtime-main.b2776fda.js.map",
-    "static/js/2.44df8bd2.chunk.js": "/ElverTobo/static/js/2.44df8bd2.chunk.js",
-    "static/js/2.44df8bd2.chunk.js.map": "/ElverTobo/static/js/2.44df8bd2.chunk.js.map",
-    "index.html": "/ElverTobo/index.html",
-    "static/css/main.1f7a43cd.chunk.css.map": "/ElverTobo/static/css/main.1f7a43cd.chunk.css.map",
-    "static/js/2.44df8bd2.chunk.js.LICENSE.txt": "/ElverTobo/static/js/2.44df8bd2.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.75cfb750.chunk.js",
+    "main.js.map": "/static/js/main.75cfb750.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0fde60b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0fde60b5.js.map",
+    "static/js/2.8b3828b1.chunk.js": "/static/js/2.8b3828b1.chunk.js",
+    "static/js/2.8b3828b1.chunk.js.map": "/static/js/2.8b3828b1.chunk.js.map",
+    "static/js/3.e2508ba2.chunk.js": "/static/js/3.e2508ba2.chunk.js",
+    "static/js/3.e2508ba2.chunk.js.map": "/static/js/3.e2508ba2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8b3828b1.chunk.js.LICENSE.txt": "/static/js/2.8b3828b1.chunk.js.LICENSE.txt",
+    "static/media/documentacion.24ad5b66.png": "/static/media/documentacion.24ad5b66.png",
+    "static/media/formulario.cdc2a794.png": "/static/media/formulario.cdc2a794.png",
+    "static/media/foto.f2bea357.png": "/static/media/foto.f2bea357.png",
+    "static/media/mascotas.92c66727.png": "/static/media/mascotas.92c66727.png",
+    "static/media/robots.994e1916.png": "/static/media/robots.994e1916.png",
+    "static/media/tributo.fe2def74.png": "/static/media/tributo.fe2def74.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2776fda.js",
-    "static/js/2.44df8bd2.chunk.js",
-    "static/css/main.1f7a43cd.chunk.css",
-    "static/js/main.d68aa319.chunk.js"
+    "static/js/runtime-main.0fde60b5.js",
+    "static/js/2.8b3828b1.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.75cfb750.chunk.js"
   ]
 }
